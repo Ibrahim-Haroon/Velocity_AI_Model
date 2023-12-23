@@ -1,40 +1,47 @@
 import pandas as pd
 import numpy as np
-from sklearn.preprocessing import StandardScaler
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Dense
+import tensorflow as tf
+from tensorflow import keras
+from tensorflow.keras import layers
 
-# Load training dataset
-train_df = pd.read_csv('training_dataset.csv')
+# Load the CSV files into pandas dataframes
+training_data = pd.read_csv('training_data.csv')
+validation_data = pd.read_csv('validation_data.csv')
 
-# Extract features (X) and target variable (y)
-X_train = train_df[['Min_Duration', 'Max_Duration']]
-y_train = train_df['Task']
+# Convert the dataframes into numpy arrays
+training_data = training_data.to_numpy()
+validation_data = validation_data.to_numpy()
 
-# Load validation dataset
-val_df = pd.read_csv('validation_dataset.csv')
+# Split the data into features and labels
+training_features = training_data[:, 1:]
+training_labels = training_data[:, 0]
+validation_features = validation_data[:, 1:]
+validation_labels = validation_data[:, 0]
 
-# Extract features (X) and target variable (y)
-X_val = val_df[['Min_Duration', 'Max_Duration']]
-y_val = val_df['Task']
+# Normalize the data
+mean = training_features.mean(axis=0)
+std = training_features.std(axis=0)
+training_features = (training_features - mean) / std
+validation_features = (validation_features - mean) / std
 
-# Standardize the data
-scaler = StandardScaler()
-X_train = scaler.fit_transform(X_train)
-X_val = scaler.transform(X_val)
+# Define the model architecture
+model = keras.Sequential([
+    layers.Dense(64, activation='relu', input_shape=[training_features.shape[1]]),
+    layers.Dense(64, activation='relu'),
+    layers.Dense(1)
+])
 
-# Build the neural network model
-regression_model = Sequential()
-regression_model.add(Dense(64, input_dim=2, activation='relu'))
-regression_model.add(Dense(32, activation='relu'))
-regression_model.add(Dense(1, activation='linear'))
+# Compile the model
+model.compile(
+    optimizer=tf.optimizers.Adam(learning_rate=0.001),
+    loss='mse',
+    metrics=['mae', 'mse']
+)
 
-# Compile model
-regression_model.compile(loss='mean_squared_error', optimizer='adam', metrics=['mae'])
-
-# Train model
-regression_model.fit(X_train, y_train, epochs=50, batch_size=32, validation_data=(X_val, y_val))
-
-# Evaluate the model on the validation set
-loss, mae = regression_model.evaluate(X_val, y_val)
-print(f'Mean Absolute Error on Validation Set: {mae}')
+# Train the model
+history = model.fit(
+    training_features, training_labels,
+    validation_data=(validation_features, validation_labels),
+    batch_size=32,
+    epochs=100
+)

@@ -1,12 +1,12 @@
 Task,Min_Duration,Max_Duration
-Join a local painting class, 60, 120
+Join a local painting class, 30, 120
 Join a local astronomy observation night, 20, 120
-Attend a local hip-hop dance performance, 10, 120
-Planning a family vacation with multiple destinations, 0, 10080
-Plan a visit to a wildlife rehabilitation center, 15, 90
+Attend a local hip-hop dance performance, 30, 240
+Planning a family vacation with multiple destinations, 20, 10080
+Plan a visit to a wildlife rehabilitation center, 15, 180
 Yearly vacation planning and booking, 10, 1440
 Plan a visit to a historical mansion, 30, 180
-Volunteer for an LGBTQ+ support group, 0, 60
+Volunteer for an LGBTQ+ support group, 5, 120
 Take a creative writing class, 30, 120
 Volunteer at a community technology workshop, 15, 180
 Creating a detailed financial analysis for a company, 60, 180
