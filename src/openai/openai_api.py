@@ -3,9 +3,9 @@ import sys
 from tqdm import tqdm
 
 
-def openai_api(prompt: str, task: str, api_key: str=None) -> str:
+def openai_api(prompt: str, task: str, api_key: str = None) -> str:
     if api_key:
-        client = OpenAI(api_key)
+        client = OpenAI(api_key=api_key)
     else:
         client = OpenAI()
 
@@ -61,4 +61,7 @@ if __name__ == "__main__":
         istream.append(line)
 
     print("Task,Min_Duration,Max_Duration")
-    main(istream[1:])
+    if istream[0] == "Task,Min_Duration,Max_Duration":
+        main(istream[1:])
+    else:
+        main(istream)

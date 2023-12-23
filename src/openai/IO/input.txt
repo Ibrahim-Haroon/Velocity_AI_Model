@@ -1,0 +1,1 @@
+learn the fundaments of python after already knowing C
