@@ -1,0 +1,507 @@
+Task,Min_Duration,Max_Duration
+Join a local painting class, 60, 120
+Join a local astronomy observation night, 20, 120
+Attend a local hip-hop dance performance, 10, 120
+Planning a family vacation with multiple destinations, 0, 10080
+Plan a visit to a wildlife rehabilitation center, 15, 90
+Yearly vacation planning and booking, 10, 1440
+Plan a visit to a historical mansion, 30, 180
+Volunteer for an LGBTQ+ support group, 0, 60
+Take a creative writing class, 30, 120
+Volunteer at a community technology workshop, 15, 180
+Creating a detailed financial analysis for a company, 60, 180
+Watering a potted plant, 0.5, 2
+Monthly house maintenance tasks, 30, 60
+Join a local swing dance group, 30, 90
+Attend a poetry reading, 5, 120
+Weekly meal planning and grocery shopping, 60, 120
+Get daily workout in, 30, 90
+Create a time capsule, 0, 180
+Try a new type of cuisine, 5, 120
+Volunteer for a community clean-up initiative, 30, 120
+Working out at the gym, 5, 90
+Volunteer for a community gardening project, 15, 120
+Research investment options, 0, 60
+Try a new type of vegetable gardening, 0.5, 2
+Attend a local film festival, 25, 180
+Meditate for 15 minutes, 15, 15
+Take a day trip to a botanical garden, 480, 720
+Try a new type of pickling or fermenting, 0.5, 1000
+Go to Jumuah prayer, 60, 120
+Get an oil change for the car, 30, 60
+Plan a visit to an art gallery, 30, 120
+Learn basic car maintenance, 15, 60
+Writing in a coffee shop, 5, 60
+Attend a local dance performance, 10, 180
+Winterize lawnmower, 10, 30
+Researching and writing a blog post, 30, 180
+Call mom, 0, 10
+Making a simple sandwich, 1, 5
+Learn to play frisbee golf, 5, 120
+Planning and executing a cross-country road trip, 1200, 2400
+Join a local archery class, 60, 90
+Set up a composting system in the backyard, 10, 60
+Plan a day of paddle boarding, 10, 180
+Learn to make homemade sushi, 5, 60
+Learn to play disc golf, 10, 60
+Writing and recording a full-length album, 720, 1440
+Try a new type of sushi, 0.5, 1
+Attend a philosophy discussion group, 15, 90
+Water plants, 0.5, 1
+Read a chapter of a book, 5, 60
+Change kitchen bulb, 1, 5
+Post about recent accomplishment on linkedin, 1, 5
+Volunteer at a community health fair, 30, 120
+Join a local swing dance class, 45, 90
+Learn to paddle-board, 5, 60
+Attend a local comedy improv class, 30, 90
+Take a cooking class focused on international cuisine, 60, 180
+Clean bathroom, 5, 30
+Organizing a large-scale conference, 80, 150
+Learn to make your own natural cleaning products, 5, 60
+Reading a short article, 0.5, 1
+Quarterly health check-ups, 15, 60
+Working on a personal project at home, 0, 525600
+Plan a visit to a cultural heritage festival, 10, 360
+Write a letter to a family member, 2, 10
+Explore a nearby river or lake, 5, 180
+Organize and declutter the closet, 15, 60
+Plan a visit to a historical landmark, 15, 300
+Take a class on sustainable living, 1, 3
+Update and organize important documents in a home filing system, 5, 10
+Try a new type of dessert, 0.5, 2
+Attend a stand-up comedy show, 15, 90
+Volunteer for an animal adoption event, 15, 90
+Volunteer for a tree planting initiative, 5, 120
+Meditating for 5 minutes, 5, 5
+Create a scrapbook, 0, 2
+Setting an alarm clock, 1, 2
+Attend a workshop on personal development, 30, 120
+Take a painting class, 30, 180
+Join a local improv theater group, 30, 120
+Making a homemade pizza from scratch, 25, 45
+Attend a local storytelling event, 10, 120
+Pick up prescription medication from the pharmacy, 5, 30
+Plan a day of kayaking, 30, 360
+Try a new type of tea, 1, 5
+Complete database class homework, 0, 180
+Start a blog, 5, 120
+Join a local hiking group, 15, 120
+Text mom happy birthday, 0.5, 1
+Sending a one-sentence email, 0.1, 1.0
+Implementing a company-wide software upgrade, 40, 120
+Take a day trip to a nearby beach, 480, 720
+Monthly book club meetings, 60, 120
+Attend a local DIY craft fair, 5, 180
+Putting on shoes and socks, 1, 3
+Learn to play a traditional board game from another culture, 30, 180
+Join a local painting class, 60, 120
+Attend a local kite flying festival, 5, 120
+Attend a self-improvement seminar, 30, 180
+Take a cooking class focused on desserts, 15, 120
+Learn to play a traditional card game from another culture, 5, 60
+Try a new type of pasta salad, 1, 30
+Attend a local salsa music festival, 30, 180
+Plan a visit to a sustainable living exhibition, 1, 3
+Try a new type of exotic cuisine, 5, 120
+Try a new type of craft beer, 5, 30
+Attend a local spoken word poetry class, 30, 90
+Buy groceries for the week, 5, 90
+Producing a feature-length film, 120, 240
+Volunteer at a homeless shelter, 30, 120
+Seasonal wardrobe rotation and organization, 15, 60
+Completing a home renovation project, 1200, 2400
+Learn basic self-defense techniques, 5, 60
+Establishing a non-profit organization, 0, 12
+Attend a local reggae music festival, 180, 300
+Research and plan a road trip, 10, 60
+Join a community book club, 60, 120
+Learn to make homemade bread, 5, 240
+Volunteer for a community development project, 0, 120
+Take a scenic drive, 5, 180
+Plan and prepare a picnic, 15, 60
+Volunteer at a community radio station, 15, 60
+Annual tax preparation, 15, 120
+Explore a new neighborhood, 5, 60
+Planning a surprise party, 15, 120
+Attending a professional networking event, 5, 180
+Learn basic origami techniques, 5, 30
+Volunteer at a food bank, 60, 180
+Learn to play the ukulele, 5, 30
+Go stargazing, 15, 90
+Call contractor to winterize irrigation system, 15, 60
+Join a local chess strategy workshop, 20, 90
+Planning and executing a themed party, 30, 300
+Practice leetcode for interview, 5, 60
+Pray duhr, 5, 15
+Take a gardening workshop, 30, 180
+Join a local roller skating club, 15, 60
+Volunteer for a coding hackathon, 20, 1440
+Write a letter to a family member in another country, 5, 20
+Try a new type of plant-based milk, 1, 5
+Write a short story, 60, 525600
+Take a jewelry making class, 15, 180
+Try a new type of dance, like salsa or tango, 5, 60
+Join a local swing dance workshop, 15, 90
+Assemble new desk, 5, 120
+Learn to play a strategy board game, 5, 180
+Checking the mailbox, 1, 5
+Volunteer at an art therapy program, 15, 90
+Join a local running club, 10, 60
+Attend a science fiction convention, 30, 180
+Schedule a dentist appointment for a checkup, 10, 60
+Attend a religious service, 60, 180
+Schedule a home energy audit, 30, 90
+Attend a local farmers' market, 30, 120
+Learn to make your own natural beauty products, 30, 180
+Volunteer at a community health clinic, 10, 180
+Attend a local kite-making workshop, 20, 60
+Attend a classical music concert, 60, 180
+Write a poem, 0.5, 5
+Conducting a research study, 1, 60
+Attend a live jazz performance, 5, 180
+Purchase gift for friend's birthday, 5, 60
+Drop off dry cleaning, 10, 30
+Learn to make your own soap, 10, 60
+Plan a visit to a science and technology museum, 30, 180
+Learn to make homemade ice cream, 5, 60
+Join a local archery club, 15, 90
+Attending a community meeting, 0.5, 2
+Learn to play chess, 5, 60
+Planting a small garden, 30, 120
+Take a pottery class, 60, 180
+Assembling a complex piece of furniture, 30, 120
+Take a day trip to a wildlife sanctuary, 60, 480
+Conducting a scientific experiment with multiple steps, 0, 120
+Try a new type of burger, 0.5, 2
+Purchase and install a new shower-head for better water pressure, 15, 45
+Try a new type of vegetarian dish, 5, 60
+Volunteer at a music therapy program, 15, 120
+Plan a visit to an aquarium, 10, 180
+Volunteer for an environmental conservation project, 1, 4
+Learn to knit or crochet, 0, 10
+Volunteer at a senior center, 30, 120
+Designing a logo, 1, 10
+Replace the air filters in the home HVAC system, 5, 30
+Try a new type of exotic fruit, 0.5, 5
+Attend a community meeting or event, 5, 180
+Purchase a new set of pots and pans for the kitchen, 5, 30
+Volunteer at a literacy tutoring program, 15, 120
+Attend a local wine and paint night, 120, 180
+Volunteer at a community recycling center, 30, 120
+Take a day trip to a nearby town, 480, 720
+Cleaning a house with multiple rooms, 20, 180
+Go for a jog, 15, 60
+Organizing a charity event with various activities, 30, 180
+Creating a simple spreadsheet, 0.5, 2
+Cook a simple meal, 5, 60
+Go to a local library and read a new book, 15, 120
+Attend a local jazz music workshop, 15, 180
+Cleaning a public space (e.g., a park), 10, 180
+Teach my dog to do a flip, 0, 60
+Creating a detailed project plan for a business, 30, 300
+Washing a single dish, 0.5, 2
+Go for a 30-minute jog, 15, 60
+Join a local chess club, 10, 60
+Try a new type of ethnic dessert, 0, 60
+Learn to play the harmonica, 5, 60
+Call a friend for a catch-up, 1, 60
+Organize your closet, 5, 60
+Planning a wedding, 30, 600
+Plan a visit to a maritime museum, 10, 180
+Talk with bank about suspicious charge, 5, 30
+Assembling a small piece of furniture, 2, 4
+Plan a visit to a botanical garden, 20, 180
+Go whitewater rafting, 20, 180
+Write a gratitude journal entry, 0, 10
+Annual holiday preparations, 15, 60
+Join a local ultimate frisbee league, 120, 180
+Join a local storytelling group, 15, 60
+Volunteer at an animal rehabilitation center, 60, 180
+Learn to play a new board game, 5, 120
+Try a new type of homemade jam or jelly, 1, 10
+Developing a basic mobile app, 2, 6
+Building a computer from individual components, 20, 40
+Join a local rock climbing group, 15, 90
+Plan a visit to a historical battlefield, 60, 180
+Explore a nearby nature reserve, 15, 60
+Attend a local reggae dance class, 30, 60
+Attend a yoga class, 30, 90
+Volunteer at a literacy program, 15, 120
+Plan a visit to a planetarium, 5, 180
+Try a new type of exotic drink, 0.5, 3
+Quarterly performance reviews at work, 15, 60
+Attend a photography exhibition, 10, 90
+Ask manager for a raise, 1, 10
+Plan a day of outdoor yoga, 30, 90
+Creating a documentary film, 120, 300
+Join a local meditation group, 5, 120
+Weekly team meetings at work, 5, 60
+Putting together a jigsaw puzzle, 5, 60
+Do spring clean up, 30, 180
+Sweeping a small room, 1, 10
+Cooking a gourmet three-course meal, 60, 180
+Try a new type of noodle dish, 5, 20
+Get yearly physical scheduled, 10, 30
+Donate unused items to a charity, 5, 60
+Planning a weekend getaway, 30, 120
+Building a backyard deck, 2400, 4800
+Volunteer for a disaster preparedness workshop, 10, 60
+Attend a local photography class, 90, 150
+Setting a table for one person, 1, 5
+Attend a local wine tasting event, 30, 120
+Volunteer for a clean energy initiative, 0, 180
+Attend a disco event, 15, 300
+Designing and building a model airplane, 15, 30
+Volunteer at a local animal shelter, 15, 120
+Create a budget for the month, 0, 2
+Watch a documentary, 0, 180
+Pick up sister from airport tonight, 10, 60
+Read a chapter of a novel, 30, 60
+Painting a small room, 30, 120
+Join a local comedy club, 15, 60
+Join a local astronomy club, 5, 120
+Complete a DIY home project, 5, 600
+Attending a fitness class, 30, 90
+Volunteer at a community garden, 30, 180
+Plan and plant a garden, 10, 300
+Visit a museum, 15, 120
+Plan a visit to a science museum, 30, 120
+Do the dishes, 5, 20
+Try a new workout routine, 5, 60
+Installing software on a computer, 5, 60
+Cooking in a communal kitchen, 5, 60
+Get milk from grocery store, 5, 20
+Designing and implementing a landscaping project, 10, 000
+Attend a local swing dance performance, 10, 180
+Join a local trivia night, 15, 120
+Try a new type of coffee, 0.5, 2
+Installing a new light fixture, 10, 30
+Attend a local comedy improv show, 25, 120
+Writing and producing a play, 120, 300
+Join a local knitting club, 60, 120
+Clean up room by tomorrow morning, 5, 60
+Get a manicure, 15, 60
+Take a birdwatching hike, 5, 180
+Join a local martial arts class, 30, 90
+Take a day trip to a historical village, 0, 1440
+Play a game on the phone, 1, 60
+Designing and implementing a city park, 60, 150
+Volunteer for a coding bootcamp, 0, 1800
+Create a vision board, 0, 120
+Attend a local TEDx event, 60, 240
+Pray fajr, 3.75, 5
+Setting up a home theater system, 15, 180
+Designing and building a custom house, 4800, 10080
+Write and record a podcast episode, 30, 120
+Organizing a closet, 5, 60
+Plan a day of outdoor rock climbing, 120, 300
+Create a weekly meal plan, 0.5, 1.5
+Monthly budgeting and financial planning, 0, 2
+Seasonal lawn maintenance, 10, 60
+Plan a day of random acts of kindness, 0, 1440
+Install a new light fixture in the living room, 5, 60
+Attend a local cultural festival, 30, 180
+Designing and executing a marketing campaign, 1, 6
+Plan a day of geocaching, 10, 240
+Plan a visit to a cultural heritage site, 5, 360
+Organizing a neighborhood cleanup, 30, 180
+Learn to solve a Rubik's Cube, 5, 60
+Attend a local hip-hop dance class, 60, 90
+Send out thank-you cards for recent gifts, 0.5, 2
+Set up automatic bill payments for monthly expenses, 0.5, 1
+Weekly family game night, 10, 120
+Join a local photography club, 30, 120
+Completing a task at your workplace, 0, 480
+Try a new type of pizza, 1, 30
+Plan a visit to an observatory, 5, 120
+Join a local bird photography club, 30, 120
+Volunteer at a wildlife conservation project, 20, 120
+Brushing teeth, 1, 3
+Daily commuting to work, 30, 90
+Plan a visit to an archaeological site, 5, 240
+Plan a day of indoor rock climbing, 15, 120
+Writing a detailed research paper, 1200, 2400
+Making instant coffee, 0.5, 2
+Developing a complex software application, 2500, 10000
+Organizing a community event, 30, 180
+Collaborating on a virtual team project, 5, 60
+Join a sports league, 10, 60
+Join a local chess tournament, 30, 180
+Donate unused clothes to a local charity, 5, 30
+Attend a local environmental film festival, 20, 180
+Volunteer for a community orchestra, 5, 120
+Participating in a team-building exercise, 0.5, 2
+Attend a poetry slam event, 30, 180
+Attend a local fashion show, 10, 120
+Volunteer at a local charity, 0, 240
+Learn to play a new party game, 1, 120
+Sign up for a weekend yoga class, 10, 180
+Walk the dog, 5, 30
+Plan a visit to a local orchard or farm, 10, 180
+Volunteer at a local food pantry, 60, 180
+Fill up gas for tomorrows trip, 2, 10
+Learn to solve a Sudoku puzzle, 0, 180
+Try a new type of seafood dish, 5, 60
+Volunteer for a beach cleanup, 15, 120
+Studying at the library, 30, 180
+Crafting a handmade greeting card, 2, 6
+Daily morning routine, 10, 30
+Planning a corporate retreat with team-building activities, 2, 8
+Plan a visit to a history museum, 10, 120
+Practice mindfulness for 10 minutes, 10, 10
+Plan a surprise for a loved one, 5, 180
+Grocery shopping at a local market, 10, 60
+Take an online course, 20, 120
+Sending a text message, 0.1, 0.5
+Try a new type of herbal tea, 0, 5
+Learn a new board game, 0, 180
+Take a cooking class focused on street food, 30, 90
+Learn to play a musical instrument, 20, 200
+Take a photography walk, 5, 120
+Read Quran, 2, 30
+Research and compare internet service providers for a better plan, 15, 120
+Attend a local rock climbing competition, 10, 180
+Organizing a small drawer, 0.5, 1
+Try a new type of ice cream, 0.5, 1
+Volunteer for a community cooking class, 30, 120
+Join a local birdwatching hike, 20, 180
+Writing a book, 480, 1200
+Learn basic sign language, 1, 6
+Designing and launching a new product, 60, 180
+Visit doctor, 15, 60
+Plan a day of mountain biking, 45, 180
+Attend a documentary screening and discussion, 10, 180
+Create a time capsule, 0, 1440
+Plan a visit to a natural history museum, 30, 180
+Join a local birdwatching club, 30, 120
+Attend a local poetry reading, 5, 120
+Visit the local library to return and borrow books, 5, 30
+Join a local mindfulness meditation group, 5, 90
+Cook a new recipe, 5, 120
+Join a chess club, 30, 60
+Watch a TV show episode, 15, 60
+Plan a weekend hike or outdoor activity, 15, 720
+Volunteer at a local animal sanctuary, 15, 120
+Plan a weekend camping trip, 30, 60
+Bi-annual deep cleaning of the house, 60, 120
+Volunteer for a coding mentorship program, 0, 120
+Designing and building a custom wardrobe, 40, 120
+Pray isha, 2, 10
+Write a letter of appreciation to a mentor, 5, 15
+Take a salsa dancing class, 30, 90
+Write a letter to your future self, 0, 10
+Boiling an egg, 3, 10
+Join a local storytelling event, 5, 120
+Join a local photography expedition, 15, 180
+Attend a local community play, 30, 180
+Volunteer at a community science fair, 15, 120
+Stack a cord of wood, 20, 60
+Launching a startup company, 0, 1200
+Volunteer for a community bike repair initiative, 15, 60
+Attend a networking event, 10, 180
+Take a day trip to a nature reserve, 480, 1440
+Working on a task with family members, 0, 0
+Volunteer for a coding education program, 0, 3
+Collaborating on a group project, 5, 120
+Learn basic car repair skills, 5, 30
+Folding a piece of paper, 0.5, 5
+Volunteer for a community theater production, 10, 120
+Register to spring courses, 0.25, 1
+Write a letter to a future employer, 0, 15
+Try a new type of pasta dish, 5, 30
+Plan a visit to a historic lighthouse, 10, 120
+Volunteer for a community garden initiative, 2, 4
+Attend a local film screening and discussion, 15, 90
+Join a local improv comedy group, 20, 180
+Explore a nearby hiking trail, 15, 120
+Join a local poetry writing group, 15, 60
+Volunteer at a youth mentorship program, 0, 240
+Volunteer for a disaster relief organization, 0, 60
+Volunteer at a community music festival, 15, 480
+Designing a basic webpage, 5, 20
+Baking a batch of cookies, 10, 20
+Watch an introductory programming course, 15, 60
+Solve a math problem set, 0, 0
+Try a new type of hot beverage, 1, 5
+Join a local writing group, 30, 120
+Join a local philosophy discussion group, 10, 120
+Take a shower, 2, 15
+Learn to play a card game, 0, 120
+Weekly project status updates, 0.5, 1.5
+Learn a new dance, 5, 60
+Collaborating on a creative project with friends, 1, 3600
+Learn to play a board game strategy, 5, 120
+Attend a woodworking workshop, 60, 180
+Plan a visit to a botanical arboretum, 30, 180
+Try a new type of smoothie, 0.5, 5
+Try a new type of curry, 1, 60
+Baking a multi-layered cake, 30, 120
+Visit a farmers' market, 5, 60
+Set up a meeting with a financial advisor to discuss investments, 5, 60
+Daily social media check-ins, 0.5, 1
+Try a new type of sandwich, 0.5, 10
+Try a new type of international cuisine, 5, 120
+Attend a technology conference, 60, 480
+Plan a weekend getaway, 30, 120
+Sewing a button on a shirt, 1, 5
+Join a local book reading club, 15, 120
+Building a small bookshelf, 5, 10
+Try a new type of salad, 0, 15
+Volunteer for a community mentorship program, 0, 120
+Plan a day of horseback riding, 30, 300
+Plan and execute a home spa day, 60, 180
+Plan a visit to a wildlife sanctuary, 10, 180
+Pray maghreb, 2.5, 5
+Volunteer for a food sustainability project, 0, 180
+Volunteering at a local charity, 0, 480
+Volunteer for a neighborhood cleanup, 15, 120
+Schedule session with therapist, 5, 60
+Learn to make homemade pasta, 15, 60
+Cooking a three-course meal, 30, 180
+Attend a local magic show, 10, 90
+Launching a political campaign, 0, 3000
+Try a new type of pastry, 0.5, 2
+Learn to juggle, 0.5, 10
+Attend a local magic or illusion show, 20, 120
+Change car tires to winter tires, 30, 60
+Update resume, 5, 60
+Attend a community event, 5, 360
+Learn basic woodworking skills, 10, 60
+Research and plan a career development strategy, 10, 60
+Ironing one shirt, 3, 5
+Plan a family game night, 10, 180
+Developing a comprehensive business plan, 120, 240
+Take a day trip to a mountain hike, 480, 720
+Attend a local spoken word poetry event, 10, 180
+Research a historical event, 30, 180
+Renew driver's license at the DMV, 30, 180
+Plan a visit to a national park, 0, 1440
+Taking a work-related online course, 30, 120
+Attend a local theater production, 120, 180
+Conducting a usability study for a product, 10, 60
+Fold laundry, 1, 5
+Attend a local jazz music festival, 30, 180
+Attend a live performance (concert, play, etc.), 15, 300
+Pray asr, 5, 10
+Plan a visit to a science center, 30, 180
+Unpacking groceries, 1, 10
+Try a new type of chocolate, 0.5, 3
+Water indoor plants, 0.5, 5
+Attend a language learning meetup, 10, 120
+Monthly goal-setting and reflection, 0, 60
+Create a DIY home decor project, 5, 20
+Join a local poetry slam, 5, 180
+Take cat to vet for checkup, 10, 30
+Writing a shopping list, 0.5, 2
+Learn to ride a unicycle, 1, 10
+Plan a visit to a historical reenactment event, 30, 180
+Go for a bike ride, 15, 60
+Update linkedin profile, 5, 30
+Learn to play a new card game, 5, 120
+Attend a local music festival, 180, 360
+Iron clothes for tomorrow, 10, 30
+Bi-weekly laundry routine, 60, 120
+Attend a community theater production, 15, 180
+Try a new type of vegetable dish, 0, 30
+Read 1 juz of Quran, 60, 120
