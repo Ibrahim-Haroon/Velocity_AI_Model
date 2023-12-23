@@ -3,8 +3,11 @@ import sys
 from tqdm import tqdm
 
 
-def openai_api(prompt: str, api_key: str, task: str) -> str:
-    client = OpenAI(api_key=api_key)
+def openai_api(prompt: str, task: str, api_key: str=None) -> str:
+    if api_key:
+        client = OpenAI(api_key)
+    else:
+        client = OpenAI()
 
     chat_completion = client.chat.completions.create(
         messages=[
@@ -38,12 +41,10 @@ def main(tasks: list[str]) -> int:
                 Now If uncertain, make your best judgment. Please provide the values in CSV 
                 format (min, max)"""
 
-    api_key = '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'
-
     for task in tqdm(tasks):
         task = task.strip()
 
-        answer = openai_api(prompt, api_key, task)
+        answer = openai_api(prompt, task)
 
         print_duration(task, answer)
 
